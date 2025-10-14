@@ -5,7 +5,7 @@ All notable changes to Python 101 – Dasar-dasar will be documented in this fil
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
-## [1.0.0] - 2024-10-09
+## [1.0.0] - 2025-10-09
 
 ### 🎉 Initial Release
 
@@ -136,6 +136,6 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 <div align="center">
 
-**[View Full Changelog](https://github.com/yourusername/python-101/releases)**
+**[View Full Changelog](https://github.com/mrbrightsides/python101/releases)**
 
 </div>
