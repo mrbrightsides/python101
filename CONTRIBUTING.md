@@ -84,11 +84,11 @@ Buat issue dengan label "enhancement":
 # 1. Fork repository di GitHub
 
 # 2. Clone fork Anda
-git clone https://github.com/YOUR_USERNAME/python-101-dasar-dasar.git
+git clone https://github.com/mrbrightsides/python101.git
 cd python-101-dasar-dasar
 
 # 3. Add upstream remote
-git remote add upstream https://github.com/ORIGINAL_OWNER/python-101-dasar-dasar.git
+git remote add upstream https://github.com/mrbrightsides/python101.git
 
 # 4. Install dependencies
 npm install
